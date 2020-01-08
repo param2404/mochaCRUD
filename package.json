@@ -1,0 +1,17 @@
+{
+  "name": "mongoTube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.0.0",
+    "mongoose": "^4.13.20",
+    "nodemon": "^2.0.2"
+  }
+}
